@@ -1,0 +1,23 @@
+body{
+background-color: aqua;
+padding: 1rem;
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+p{
+    margin: 0px;
+}
+.sectionOne{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center
+}
+.headerSection{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
