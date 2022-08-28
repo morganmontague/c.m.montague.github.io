@@ -7,7 +7,8 @@ Made by **Morgan Montague** for *Blog One Module*
 3. What is something about you that can only be learned by reading this blog?
     * That I don't know a lot... Also I have a webbed toe. So yeah _normal_ stuff right there. 
 
+```
 
+- Here is a picture of a bunny I found ![images/bunny.jpeg](images/bunny.jpeg)
 
-- Here is a picture of a bunny I found !([images/bunny.jpeg](https://github.com/morganmontague/c.m.montague.github.io/blob/e93caf25d79ff85139dd9ea05d3c256ddc9e5188/images/bunny.jpeg))
-
+```
