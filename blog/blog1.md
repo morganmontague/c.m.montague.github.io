@@ -9,5 +9,5 @@ Made by **Morgan Montague** for *Blog One Module*
 
 
 
-- Here is a picture of a bunny I found ![Bunny in yard](c.m.montague.github.io/images/bunny.jpeg)
+- Here is a picture of a bunny I found ![Bunny in yard](images/bunny.jpeg)
 
