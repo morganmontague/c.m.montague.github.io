@@ -9,6 +9,14 @@ Made by **Morgan Montague** for *Blog One Module*
 
 ```
 
-- Here is a picture of a bunny I found ![images/bunny.jpeg](../images/bunny.jpeg)
+# Section 2
 
 ```
+4. What is something you wish you could do but currently do not have the coding skills to accomplish?
+   * I want to get more comfortable with coding, I am amazed by watching Josh and Jonathon just randomly making working little codes.
+5. What are you struggling with?
+   * I am struggling with the density of content, each webpage I visit about a new element will just put me in a rabbit hole.
+6. How do you solve a problem? 
+   * I like to step back and take a breather, then I will try and look at it differenetly, if still nothing I will google or go to help slack.
+7. What methods do you use to help yourself get unstuck?
+   * Like stated before I try not to get stuck for too long, also google is very nice for this early content.
