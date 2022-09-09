@@ -9,7 +9,7 @@ Made by **Morgan Montague** for *Blog One Module*
 
 ```
 
-# Section 2
+Section 2
 
 ```
 4. What is something you wish you could do but currently do not have the coding skills to accomplish?
