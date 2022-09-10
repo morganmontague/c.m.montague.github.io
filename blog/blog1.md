@@ -34,7 +34,7 @@ Section 3
 ```   
       Dillinger  [https://dillinger.io/]
 ```
-* However I hope to add what we learned this week into it eventually, example"['arrays', 'addEventListener', 'basic console opertations like .getElementById', camal Casing', 'psuedocode(sill working on that)]
+* However I hope to add what we learned this week into it eventually, example['arrays', 'addEventListener', 'basic console opertations like .getElementById', camal Casing', 'psuedocode(sill working on that)]
    * I am also trying to use more branches and use vscode more.
 10. What are your thoughts on pseudocoding?
    * pseudocoding is more difficult then originally expected.
