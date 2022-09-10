@@ -39,6 +39,7 @@ Section 3
 10. What are your thoughts on pseudocoding?
    * pseudocoding is more difficult then originally expected.
    * I was thinking it was like a step by step flow chart like, *add sugar, add eggs, stir*.
-   * However watching the demo days I realized sorta lost focus on Justin's youtube videos in the slides, there is a lot more detail needed.
+   * However watching the demo days I realized I lost focus on Justin's youtube videos in the slides, there is a lot more detail needed.
    * It is more like making code readable for everyone changing stuff like (if else, !==, color: white) into more life if your sugar is brown do not use this, you need to use white sugar.
+   * This is so you can read and then implement the instructions in different coding languages.
    * I am still trying to learn more on this and I hope to improve it as I go.
