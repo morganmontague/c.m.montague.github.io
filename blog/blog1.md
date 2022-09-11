@@ -27,10 +27,10 @@ Section 3
 
 ```
 8. What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
-   * From a basic comparison I make, HTML is like the bones of an arm, the backbone and what is needs added stuff to, unless you like skeletons. JavaScript adds motion like muscles but can also add psuedo bones like joints and ligiments to help the arm move better and preform different motions. CSS for this example is like pigament of the skin and hair color/density on the arm.
+   * From a basic comparison I make, HTML is like the bones of an arm, it functions, just look weird without stuff added to it, unless you like skeletons. JavaScript adds motion like muscles but can also add psuedo bones like joints and ligiments to help the arm move better and preform different motions. CSS for this example is like pigament of the skin and hair color/density on the arm.
 9. What are some objects that your blog incorporates?
    * My blog (as in wording) is adding the questions asked by this week's blog prompt.
-   * I used Dillenger to practice markdown more this week, sorta type and see application.
+   * I used Dillenger to practice markdown more this week, sorta type and be shown application.
 ```   
       Dillinger  [https://dillinger.io/]
 ```
