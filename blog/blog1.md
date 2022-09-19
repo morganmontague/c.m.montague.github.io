@@ -43,3 +43,11 @@ Section 3
    * It is more like making code readable for everyone changing stuff like (if else, !==, color: white) into more life if your sugar is brown do not use this, you need to use white sugar.
    * This is so you can read and then implement the instructions in different coding languages.
    * I am still trying to learn more on this and I hope to improve it as I go.
+----
+11. What was helpful during Onboarding working remotely?
+   * Really I liked the remote way of things, it made it easy to adapt into the swing of things. During busy days at work I could rest easy knowing I had time later that day to work on pnboarding. The onboarding did pick up pace which helped me realize the pressure needed as well. 
+12. What hindered your progress during Onboarding?
+   * I would say the material being some that I covered before hindered me honestly. The first two weeks I didn't take things as I should have since I had seen most of it. I should have used the time to research more and get more stretch goals in. 
+13. How did you overcome challenges during Onboarding?
+   * I started treating this like a job, not joining the zoom standups just because I had to, but brought questions and concerns to them. I really started looking into more stuff, and commited more hours to the work. The first no hand holding really woke me up to the desert of despair.
+
