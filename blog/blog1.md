@@ -51,3 +51,13 @@ Section 3
 13. How did you overcome challenges during Onboarding?
    * I started treating this like a job, not joining the zoom standups just because I had to, but brought questions and concerns to them. I really started looking into more stuff, and commited more hours to the work. The first no hand holding really woke me up to the desert of despair.
 
+14. What is the number one thing that held you back this week? Why?
+   - The obvious answer for me is my health, it progressivly got worse as the days went by. It made concentrating more difficult. It made me very nervous about my code and demoday, but it was went better then expected.
+15. What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+    -   JSON and data structures are still iffy with me, I would like to review them more, but I will get the chance the next week with the weather app. For Bootstrap, I'm not a big fan of, I'd rather make some simple css, but I will admit bootstrap is set up easily but confusing trying to find the right class.
+16. How does In-Person Bootcamp compare to Remote Onboarding?
+What is your “Why”?
+    - I was pretty worried about it for a number of reasons.
+        - I was sick for starters, I thought it was just a cold I caught from my niece, but it got worse each day. I was worried it was covid but I got negative tests, I was also worried that I might spread what ever I had.
+        - Getting adjusted to going in person, without a car was also a worry, that was easier to get used to.
+        - Being in person, also brought up mild anxiety but everyone is very kind and friendly so all good there.
