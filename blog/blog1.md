@@ -61,3 +61,12 @@ What is your “Why”?
         - I was sick for starters, I thought it was just a cold I caught from my niece, but it got worse each day. I was worried it was covid but I got negative tests, I was also worried that I might spread what ever I had.
         - Getting adjusted to going in person, without a car was also a worry, that was easier to get used to.
         - Being in person, also brought up mild anxiety but everyone is very kind and friendly so all good there.
+        
+17. What did you learn about that helped you understand the development process?
+   - I guess for me is buying into pseudocoding, I felt this week I was more focused on that aspect. I wrote more out, however I am far from good at it. I need to think more logically for this to really take hold.
+18. What does it mean to develop good code?
+    - For myself, it would be for easy to read and concise code. No hardcoding work arounds, use more object focused attributes. Don't be afraid to try new things in the dev or sandbox branches but don't mess with the main.
+19. What does it mean to be a good developer?
+   - To start be a good caring person, don't aim for the deadline just to make a buck, be proud of what you put out and strive to better yourself daily.
+20. What is one thing that programmers hate doing?
+   - uhhh I guess I wouldn't want to be a person to focus on only one type of language because that would limit my oppurtiniies greatly.
