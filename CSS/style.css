@@ -1,8 +1,8 @@
 body{
 background-color: rgb(183, 205, 227);
-padding: 1rem;
+/* padding: 1rem; */
 }
-h1{
+/* h1{
     padding: 0px;
     margin: 0px;
     border: 0px;
@@ -20,4 +20,4 @@ p{
     display: grid;
     justify-content: center;
     align-content: center;
-}
+} */
