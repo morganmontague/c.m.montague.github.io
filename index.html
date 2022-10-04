@@ -5,13 +5,80 @@
      <meta name="author" content="C. Morgan Montague">
      <meta name="description" content=" This is a blog I am builing step by step during my Awesome, Inc. Bootcamp">
      <title>Morgan's Blog</title>
-     <link rel="stylesheet" href="style.css" />
-     <script src="script.js" defer></script>
+
+
+     <link
+     rel="stylesheet"
+     href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
+     integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I"
+     crossorigin="anonymous"
+   />
+   <script
+     src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+     crossorigin="anonymous"
+   ></script>
+   <script
+     src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js"
+     integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/"
+     crossorigin="anonymous"
+   ></script>
+
+
+     <link rel="stylesheet" href="./CSS/style.css" />
+     <script src="./JS/script.js" defer></script>
     </head>
 <body>
 <header class="headerSection">
- <h1>Morgan's Blog</h1>   
+ <h1 class="bg-warning">Morgan's Blog</h1>   
 </header>
+
+<div class="row flex-lg-row-reverse align-items-center g-5 py-5 bg-success">
+    <div class="col-10 col-sm-8 col-lg-6">
+      <img src="./images/DALL·E 2022-10-04 15.06.25 - a surrealist dream-like oil painting of a red panda in a factory.png" class="d-block mx-lg-auto img-fluid" alt="PlaceHolder" width="700" height="500" loading="lazy">
+    </div>
+    <div class="col-lg-6">
+      <h1 class="display-5 fw-bold lh-1 mb-3">My awesome hero placeholder, please ignore the colors</h1>
+      <p class="lead">I'm baby single-origin coffee dreamcatcher scenester, flannel plaid PBR&B swag pop-up kitsch tilde gatekeep meh glossier truffaut. Messenger bag ugh kitsch man braid, chambray mustache sartorial scenester bushwick bitters subway tile.</p>
+      <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <!-- <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
+        <button type="button" class="btn btn-outline-secondary btn-lg px-4">Default</button> -->
+      </div>
+    </div>
+  </div>
+
+  <div class="container px-4 py-5 bg-success" id="custom-cards">
+    <h2 class="pb-2 border-bottom">Custom cards</h2>
+
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+      <div class="col">
+        <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./images/DALL·E\ 2022-10-04\ 15.06.25\ -\ a\ surrealist\ dream-like\ oil\ painting\ of\ a\ red\ panda\ in\ a\ factory.png');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Short title, long jacket</h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./images/DALL·E\ 2022-10-04\ 13.20.50\ -\ blurry\ underwater\ photo\ of\ a\ hammerhead\ shark\ swimming\ towards\ a\ school\ of\ fish.png');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Much longer title that wraps to multiple lines</h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-3.jpg');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Another longer title belongs here</h2>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 <div class="sectionOne">
     
     <div><a href="https://morganmontague.github.io/c.m.montague.github.io/blog/blog1.md"> Blog Week 4 Added</a></div>
