@@ -21,3 +21,14 @@ p{
     justify-content: center;
     align-content: center;
 } */
+
+#fontForH1{
+    font-size: 3rem;
+}
+#fontForBody{
+    font-size: 1.5rem;
+}
+#aboutMeImg{
+    width: 300px;
+    height: 300px;
+}
