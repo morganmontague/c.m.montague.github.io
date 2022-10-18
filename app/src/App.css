@@ -40,5 +40,6 @@
 }
 
 body{
-  background-image: url("app/src/IMG/ticToc.png");
+  background-color: rgb(90, 147, 197);
+  background-image: url("../IMG/ticToc.png");
 }

@@ -1,6 +1,6 @@
 import background from '../IMG/ticToc.png'
 
-function AlbumCard ({Title}, {gitLink}) {
+function AlbumCard ({Title, gitLink}) {
     return(
     <div className="col">
       <div
