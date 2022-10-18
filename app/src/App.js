@@ -6,11 +6,11 @@ let ticTac = 'https://morganmontague.github.io/tictac/'
 function App() {
   return (
    <div>
-      <h1>Morgan'Blog</h1>
+      <h1>Morgan's Blog</h1>
       <Button text={'Click Me'} />
-      <row>
-      <AlbumCard Title={'Tic Tac Toe'} gitLink={ticTac} />
-      </row>
+         <div className="row">
+         <AlbumCard Title={'Tic Tac Toe'} gitLink={ticTac} />
+      </div>
    </div> 
 
     )
