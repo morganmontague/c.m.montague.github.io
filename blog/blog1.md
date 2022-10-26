@@ -83,5 +83,33 @@ What is your “Why”?
 ``` 
 Section 3 Sprint
 ```
-TBD
+Technical Article is short and added in another section.
+
+```
+Sextion 4 Sprint
+```
+
+21. Do you think JavaScript Frameworks and Libraries are easy or hard to use? Why?
+   - At first I didn't like the newish react ways. It felt like I added a mod to a game and it changed buttons that are muscle memory. It made me struggle for a while, however after using it for a while, it started to click and I was able to use it easier, and faster.
+22. What Frameworks or Libraries are you interested in learning more about?
+   - D3 sounds interesting. It would help manage data better and visialize it. For bigger projects or data heavy projects it sounds like this library could help generate html tables or svg bar charts to visual the data.
+
+23. Find one emerging JavaScript tool that you would like to learn more about or use in your final project.
+   D3 for as mentioned above or Cleave.js also sounds interesting for formating text and input. I wouldn't mind trying some of the animation heavy libraies but I am not good with design.
+
+
+``` 
+Section 5 Sprint
+```
+
+24. What have you learned about CLIs? Do you think they are scary?
+   - CLIs were scary when I started, I was afraid I would accidently delete a file I crucially needed. However since getting to know them, they only slightly scary. The rules to follow are usually simple once you get to know them, and it is quite hard to break something unless you write it correctly
+25. If you were to build a CLI, what would it do?
+   - I really don't know what to put for this.. Uhm maybe color code different key words or the text in general, that way it would be easier to notice a typo.
+26. List some ideas that without a Framework, would take you a long time to code
+   - Frameworks are diverse and allow for more concise code for desired projects.
+      - Repeating code can be cleaned up, or simplified with frameworks.
+      - Example would be bootstrap it comes with custom class names which will help make front end management easier.
+
+
 
