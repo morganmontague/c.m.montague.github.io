@@ -1,11 +1,11 @@
-import background from '../IMG/ticToc.png'
 
-function AlbumCard ({Title, gitLink}) {
+
+function AlbumCard ({Title, gitLink, imgBack}) {
     return(
     <div className="col">
       <div
         className="card card-cover h-100 overflow-hidden text-white rounded-5 shadow-lg" id="card1"
-        style={{ backgroundImage: `url(${background})` }}
+        style={{ backgroundImage: `url(${imgBack})`}}
 >
         <div className="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
           <a className="text-black text-shadow-1" href={gitLink}
